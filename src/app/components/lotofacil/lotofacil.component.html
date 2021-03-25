@@ -1,0 +1,13 @@
+<button class="button" mat-raised-button color="primary" (click)="gerarNumeros()">Gerar números</button>
+
+<div class="button-row">
+    <div class="flex-container">
+        <div *ngFor="let numero of numeros">
+            <button class="btn" mat-fab color="primary">
+                {{numero}}
+            </button>
+        </div>
+    </div>
+</div>
+
+

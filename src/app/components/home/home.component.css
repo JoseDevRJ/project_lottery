@@ -1,0 +1,21 @@
+.mat-form-field + .mat-form-field {
+    margin-left: 100px;
+}
+
+.card {
+    margin: 50px;
+    height: 100%;
+}
+
+.card-title {
+   padding: 15px;
+   font-size: 30pt;
+   font-weight: 200;
+}
+
+.card-subtitle{
+    padding: 25px;
+}
+.content{
+    padding: 25px;
+}

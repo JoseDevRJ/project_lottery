@@ -1,0 +1,17 @@
+.button-row{
+    margin: 8px 8px 8px 0;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button {
+    margin: 50px;
+}
+
+.btn {
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+}

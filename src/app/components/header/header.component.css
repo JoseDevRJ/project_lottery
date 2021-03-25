@@ -1,0 +1,9 @@
+.header {
+    background-image: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgb(4, 19, 61) 35%, rgb(3, 62, 115) 53%, rgb(0, 212, 255) 100%)
+}
+
+a {
+    color: #FFF;
+    text-decoration: none;
+    margin: 5px;
+}
